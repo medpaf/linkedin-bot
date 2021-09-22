@@ -12,8 +12,8 @@ driver.implicitly_wait(3)
 username_field = driver.find_element_by_xpath("//input[@name='session_key']")
 password_field = driver.find_element_by_xpath("//input[@name='session_password']")
 
-username = 'paulofernandesmedeiros@gmail.com'
-password = 'Fernandes1997'
+username = input('Type your username: ')
+password = input(f'Type password for {username}: ')
 
 username_field.send_keys(username)
 password_field.send_keys(password)
