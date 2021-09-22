@@ -4,6 +4,7 @@ The only external library used in this script is the Selenium framework. To inst
 ```
 sudo pip3 install selenium
 ```
+You'll also need to install geckodriver for browser you use. If you aren't using Firefox as your browser, don't forget to change the line `driver = webdriver.Firefox()` on the script.
 After that, simply run the python file:
 ```
 python3 linkedin-bot.py
