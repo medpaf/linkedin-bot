@@ -10,4 +10,5 @@ After that, simply run the python file:
 python3 linkedin-bot.py
 ```
 (on UNIX systems)
+
 Disclaimer: Use this script with caution since Linkedin has a weekly limit of new connections and may block or flag your account.
