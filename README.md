@@ -1,6 +1,6 @@
 # Linkedin Bot
 Automation bot for Linkedin. This script asks for new connections on the Linkedin platform. 
-The only external library used in this script is the Selenium framework. To install it run the following command on your system:
+The only external library used in this script is the Selenium framework. To install it run the following command on your system (you'll need to have pip3 installed on your machine):
 ```
 sudo pip3 install selenium
 ```
