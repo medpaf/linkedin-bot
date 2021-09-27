@@ -22,10 +22,16 @@ You'll also need to install geckodriver for the browser you use. If you aren't u
 
 ## How to use
 
-After that, simply run the python file:
+After the installation, simply run the python file.
+
+On Linux:
 ```
 python3 linkedin-bot.py
 ```
-(on Linux systems)
+
+On Windows and macOS:
+```
+python linkedin-bot.py
+```
 
 Disclaimer: Use this script with caution since Linkedin has a weekly limit of new connections and may block or flag your account.
